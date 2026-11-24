@@ -36,15 +36,15 @@
         "source": "git-subdir",
         "url": "https://github.com/7amza-eth/NotchNerd.git",
         "path": "tooling/claude-code-mod",
-        "ref": "v0.3.7",
-        "sha": "a978b5de7e97dce70157375688babfc63d33ea88"
+        "ref": "v0.5.3",
+        "sha": "94e1e5430c70422f6173f62963a6f025b86015e9"
       },
       "description": "Lets Claude read and add to the NotchNerd notepad, gives you /notch to jot a line into it, and lets you reply to sessions from the notch.",
       "version": "0.2.0",
       "author": {
         "name": "MK Builds"
       },
-      "homepage": "https://github.com/7amza-eth/NotchNerd/tree/v0.3.7/tooling/claude-code-mod"
+      "homepage": "https://github.com/7amza-eth/NotchNerd/tree/v0.5.3/tooling/claude-code-mod"
     }
   ]
 }
